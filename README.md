@@ -6,6 +6,10 @@ A website for a marketing agency, Horiseon, that highlights their services that 
 ## Built With
 * html
 * css
+
+
+![image](/Bootcamp/Challenge1/01-html-css-git-homework-demo.png?raw=true "screenshot")
+
 ## Website 
 https://ianadamprice.github.io/Challenge-1/
 ## Contribution
