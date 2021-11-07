@@ -9,5 +9,5 @@ A website for a marketing agency, Horiseon, that highlights their services that 
 ## Website 
 https://ianadamprice.github.io/Challenge-1/
 ## Contribution
-Made by Ian Price
+Refactoring by Ian Price
 ### &copy; 2019 Horiseon Social Solution Services, Inc.
