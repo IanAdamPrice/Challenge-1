@@ -8,7 +8,7 @@ A website for a marketing agency, Horiseon, that highlights their services that 
 * css
 
 
-<img src="/Users/ianprice/Desktop/Bootcamp/Challenge1/01-html-css-git-homework-demo.png" width="15%"></img>
+<img src="https://github.com/IanAdamPrice/IanPriceChallenge-1/blob/main/01-html-css-git-homework-demo.png" width="15%"></img>
 
 ## Website 
 https://ianadamprice.github.io/Challenge-1/
